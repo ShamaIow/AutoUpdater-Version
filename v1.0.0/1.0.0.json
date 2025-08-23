@@ -1,22 +1,22 @@
 {
   "chunks": [
     {
-      "encrypted_hash": "b4874ebe48eb4b1898a68b8d3e76f9dbe93c15725940d47b04b7d492c4b05c8e",
-      "hash": "5ef8f94931bfa8b51fb5f2a45b5575c59c20fae27b7cd4af74228c4ed2d09e48",
+      "encrypted_hash": "654c671127b955816e77bca0bb6e836a99fc5eefbc76d1d7f8b8f3671d22c9e8",
+      "hash": "a42f008c7e81c0f02c2aaa952010f0bc0bf858885b8f875ab1253e12268197f6",
       "index": 0,
       "size": 12582940,
-      "url": "https://drive.google.com/uc?export=download&id=12oDNY3nRhxNy4nRtaqdb8hppCYEDT8cE"
+      "url": "https://drive.google.com/uc?export=download&id=1FiQWpYrutBNfPqtROS_ECNSyKPvnDkXK"
     },
     {
-      "encrypted_hash": "38fbdda64b11109f49dd5db6e860c929dcea9f7232ae919034db2d73699d2b14",
-      "hash": "71848d9dcb33b90cf51bfceca7fec0117124205c2929577ba5cd4df9a10a9d1c",
+      "encrypted_hash": "c9937e484870b17b3a37f4c1f4106cc3e7e6c4aa752779b9388e25544dcb0978",
+      "hash": "4337a76698bdbd0740ffdde281b9eff5ab19c8bbdcadd2b8561bfac84f0528f2",
       "index": 1,
-      "size": 8452477,
-      "url": "https://drive.google.com/uc?export=download&id=1ZIc-iwT8MC5byy4drgmLYAlkIwfGkv8j"
+      "size": 8452515,
+      "url": "https://drive.google.com/uc?export=download&id=14kZ0awSje3ZIzyS-G_NvvJ94BoM_UQeg"
     }
   ],
-  "master_key": "lvfvAm3aoph3CDfkEY8hZs7KtWh9BOhvqOeruvKNiq8=",
-  "release_date": "2025-08-23T15:58:11Z",
-  "total_size": 21035361,
+  "master_key": "HR8tifvRd563nkQB4SAJPY2tx21fXbihC18L9Ww/myA=",
+  "release_date": "2025-08-23T16:55:57Z",
+  "total_size": 21035399,
   "version": "1.0.0"
 }
