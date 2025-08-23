@@ -9,7 +9,7 @@
     },
     {
       "encrypted_hash": "c9937e484870b17b3a37f4c1f4106cc3e7e6c4aa752779b9388e25544dcb0978",
-      "hash": "4337a76698bdbd0740ffdde281b9eff5ab19c8bbdcadd2b8561bfac84f0528f2",
+      "hash": "4337a76698bdbd0740ffdde281b9eff5ab19c8bbdcadd2b8561bfac84f0528f22",
       "index": 1,
       "size": 8452515,
       "url": "https://drive.google.com/uc?export=download&id=14kZ0awSje3ZIzyS-G_NvvJ94BoM_UQeg"
@@ -19,4 +19,5 @@
   "release_date": "2025-08-23T16:55:57Z",
   "total_size": 21035399,
   "version": "1.0.0"
+
 }
