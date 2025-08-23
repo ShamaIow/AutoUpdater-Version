@@ -1,43 +1,22 @@
 {
   "chunks": [
     {
-      "encrypted_hash": "993f4f253fa1cfaa766bffbf1e2ed1b2b62fc9bebb3647b36670605dc4db8f34",
-      "hash": "cf0d7e049ad1014503d9908a1d1f7263dfffd64a440b2f8955dfb23155624704",
+      "encrypted_hash": "b4874ebe48eb4b1898a68b8d3e76f9dbe93c15725940d47b04b7d492c4b05c8e",
+      "hash": "5ef8f94931bfa8b51fb5f2a45b5575c59c20fae27b7cd4af74228c4ed2d09e48",
       "index": 0,
-      "size": 5242908,
-      "url": "https://drive.google.com/uc?export=download&id=1alc3MUmJn9pDW7ePeBccUTF25kUk9-F6"
+      "size": 12582940,
+      "url": "https://drive.google.com/uc?export=download&id=12oDNY3nRhxNy4nRtaqdb8hppCYEDT8cE"
     },
     {
-      "encrypted_hash": "fc7b90952ec9ce6fd1eae12b70d8009512aa408b4e82f11f2eabd12a911ffb88",
-      "hash": "932d9da7fab19d55464f6e36f743da5643cf24733c46386fc4891b6565efca07",
+      "encrypted_hash": "38fbdda64b11109f49dd5db6e860c929dcea9f7232ae919034db2d73699d2b14",
+      "hash": "71848d9dcb33b90cf51bfceca7fec0117124205c2929577ba5cd4df9a10a9d1c",
       "index": 1,
-      "size": 5242908,
-      "url": "https://drive.google.com/uc?export=download&id=162i4Hob6zKkHPg0Q0X7ICuTKemwCzLV2"
-    },
-    {
-      "encrypted_hash": "929964c63063ca529dfb8df3b7faa64bddd2c22079366cc733d3974d9c569776",
-      "hash": "eb0284e38c2ba9c178b4fd1127bbc37fd4e9ae932c03f83b56443aeeb601b2f7",
-      "index": 2,
-      "size": 5242908,
-      "url": "https://drive.google.com/uc?export=download&id=1YZddl6NI4lRzE6rswFcVmVEL1IUKFGsU"
-    },
-    {
-      "encrypted_hash": "ebe4e174a69c43b8f79195d06fa1986f84aeb663e4f2a07920d0abdd863b20da",
-      "hash": "5c8fe0d31e88e49ca33ebf34fe146d3908b365410c55a72d60a522d4aa08895d",
-      "index": 3,
-      "size": 5242908,
-      "url": "https://drive.google.com/uc?export=download&id=18Z4x62QUdefHaXKgY8gQUSD-Kg9xbwUH"
-    },
-    {
-      "encrypted_hash": "348cfd8cae5f538476741e8f6d117bc1f64652c22a6d85524ecf799a216f5eb3",
-      "hash": "6a1615b8a5708067ea07d27f6759f339c48d94748644575c92c2a4767610af9f",
-      "index": 4,
-      "size": 63905,
-      "url": "https://drive.google.com/uc?export=download&id=1fHeKGZWy2RAbHwgWAYmih6rpy5xsI0RT"
+      "size": 8452477,
+      "url": "https://drive.google.com/uc?export=download&id=1ZIc-iwT8MC5byy4drgmLYAlkIwfGkv8j"
     }
   ],
-  "master_key": "OqeZLDxraSq3DovJY6UEUe59pu+14UxEANrzkMyoJM8=",
-  "release_date": "2025-08-23T15:02:30Z",
-  "total_size": 21035397,
+  "master_key": "lvfvAm3aoph3CDfkEY8hZs7KtWh9BOhvqOeruvKNiq8=",
+  "release_date": "2025-08-23T15:58:11Z",
+  "total_size": 21035361,
   "version": "1.0.0"
 }
