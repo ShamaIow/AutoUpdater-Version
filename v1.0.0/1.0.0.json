@@ -1,22 +1,50 @@
 {
   "chunks": [
     {
-      "encrypted_hash": "99d29b0d266f22a4c7393b96316333bac6d98c9d08300c8071743f3607782780",
-      "hash": "a1f5d7583f5c70c06df86352c173ebca83f01afea58ce4699692a826268159e5",
+      "encrypted_hash": "6435c31b12cc8a3f545327ebb37f02dc7cca630398cf1d4935568d36a8b7ae6d",
+      "hash": "8046c2e0769e46f564f626f5d5ebb88768b91a1b0d2522436c6ba92879e38221",
       "index": 0,
-      "size": 5242908,
-      "url": "https://drive.google.com/uc?export=download&id=1gaVVSngpLLV7b7pd4q2FW5jG4I6wKbJu"
+      "size": 10485788,
+      "url": "https://drive.google.com/uc?export=download&id=1Qfja0RTWaO2OWprY1LE1iQXPLBNQGfad"
     },
     {
-      "encrypted_hash": "c110a231dc45de88437eea7c950f6d8a836bd9e09cb3a7c8ef3a646727aae619",
-      "hash": "c09257c8c2771cfd3b7b51b5c3b64f8c1085e52b75bd54b0eb45dff96ffcdb37",
+      "encrypted_hash": "5da792fb6cb105a443ed668cfb209fdb012f8792fa9721e7591d4b19a7c3b454",
+      "hash": "9e9c6b10e8cd32485a55123ff6b17b9aea8d758fc77eb505512c120689e5ef86",
       "index": 1,
-      "size": 3170673,
-      "url": "https://drive.google.com/uc?export=download&id=1mx2uVXWWfaj5FnPInuHoeBxSlb9KSffZ"
+      "size": 10485788,
+      "url": "https://drive.google.com/uc?export=download&id=1kXWGGP4bixr1cS8rklWKW664xS06S513"
+    },
+    {
+      "encrypted_hash": "4a31b283191ce5b3cc9ad024984086cab025bac93de7b832e7fc74e22445904b",
+      "hash": "f0702639eb3b14e73ee8c4d70cb895a10992b1fb0a35559d63cc51191f524e9b",
+      "index": 2,
+      "size": 10485788,
+      "url": "https://drive.google.com/uc?export=download&id=1RE1F8GXKeuf19cnnSEkDzEntYfsmfKMz"
+    },
+    {
+      "encrypted_hash": "428c9a25f10bfeb4db939fe87b481c4a51e220092f0076103b5704248b73d670",
+      "hash": "095163864fa05b7d71bc4e34b0b0e622c6740e1e40743520d5756250c4fbd143",
+      "index": 3,
+      "size": 10485788,
+      "url": "https://drive.google.com/uc?export=download&id=1YRsA9_k4m77WY6NBcIM8D6Njzw9Vl-L5"
+    },
+    {
+      "encrypted_hash": "5ca782913491ae3b36188aaf01dc273314034d7042b0a967b2e1ab51e746d66f",
+      "hash": "32d56fabd5683ef89eb8b4d298e261632d36a63fc7ddabd01149573861ed471b",
+      "index": 4,
+      "size": 10485788,
+      "url": "https://drive.google.com/uc?export=download&id=13vSJLv7HkBV00WBUou3xutSd2-gtqNPK"
+    },
+    {
+      "encrypted_hash": "0637f8e6e505e70e88281301904749518892b70077ee19466b77238fc387871f",
+      "hash": "175be13510d36678cece1344bcf9077b3630d884e9be7ed34ee1ef115ae783fa",
+      "index": 5,
+      "size": 7574311,
+      "url": "https://drive.google.com/uc?export=download&id=1NES0sUPqZj6xErwKwzRD7NQSOEP1jJGV"
     }
   ],
-  "master_key": "Jg0LiZr+GgwiEa+88jPf/Ec4lFIfiULPy2yjhW24Ykk=",
-  "release_date": "2025-08-24T21:15:23Z",
-  "total_size": 8413525,
+  "master_key": "S8IBHqmMrzQW8+zTCFhrnPVqhNltX4HAsZPbIgdBKic=",
+  "release_date": "2025-08-24T22:36:52Z",
+  "total_size": 60003083,
   "version": "1.0.0"
 }
